@@ -4,7 +4,7 @@ In this repository, you can find the solution to the test task provided by DocuS
 
 The solution's structure:
 
-– drawer.py - class for drawing plots;
+- drawer.py - class for drawing plots;
 - Notebook.ipynb - jupyter notebook to call and visualize our plots;
 - requirements.txt - file with requirements to running project.
 
